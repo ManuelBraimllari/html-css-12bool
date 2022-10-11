@@ -1,0 +1,72 @@
+
+
+
+[class^=col] {
+    background-color: blue;
+    border: 2px solid white;
+    color: white;
+    text-align: center;
+    padding: .3rem;
+}
+
+.green {
+    background-color: lawngreen;
+    border: 2px solid blue;
+    color: white;
+    margin-bottom: 0.7rem;
+}
+
+.green2 {
+    background-color: lawngreen;
+    border: 2px solid blue;
+    padding: 1rem;
+    margin-bottom: 3rem;
+   
+}
+
+.start {
+    justify-content: start;
+}
+
+.center {
+    justify-content: center;
+}
+
+.end {
+    justify-content: end;
+}
+
+.big {
+    height: 100px;
+}
+
+.small {
+    height: 50px;
+}
+
+.top {
+    align-items: flex-start;
+}
+
+.middle {
+    align-items: center;
+}
+
+.bottom {
+    align-items: flex-end;
+}
+
+.around {
+    justify-content: space-around;
+}
+
+.green3 {
+    background-color: lawngreen;
+    border: 2px solid blue;
+    padding: 1.5rem;
+    margin-bottom: auto;
+}
+
+.between {
+    justify-content: space-between;
+}
